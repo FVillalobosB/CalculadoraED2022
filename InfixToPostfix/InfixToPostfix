@@ -39,6 +39,11 @@ public class InfixToPostfix {
                         i++;
                     }
 
+                    if (i < str.length() && str.charAt(i) == '%') {
+                        aux = Double.toString(Double.parseDouble(aux) / 100);
+                        i++;
+                    }
+
                     arrayList.add(aux);
                     i--;
                 }
