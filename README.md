@@ -29,7 +29,7 @@ La calculadora puede usarse directamente a través de la GUI, o a través del te
 
 ## Developers
 - Fernando Villalobos Betancourt - 202318 - fvillal5@itam.mx
-- Fernando Espinoza Hernández    - 202562 - ferespin17@itam.mx
+- Fernando Espinoza Hernández    - 202562 - fespin17@itam.mx
 - Óscar Manuel Martínez Sosa     - 195770 - omarti34@itam.mx
 - Luis Eduardo Suárez Arroyo     - 202717 - lsuarez7@itam.mx
 - Aldo Soria Varela              - 194185 - asoriava@itam.mx
