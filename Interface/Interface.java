@@ -447,7 +447,7 @@ public class Interface extends javax.swing.JFrame {
     private void jButton21ActionPerformed(java.awt.event.ActionEvent evt) {                                          
     //  Ejecuta el codigo de la calculadora con los simbolos y numeros añadidos a la expresion.
         StringBuilder sb2 = new StringBuilder();
-        sb2.append(Solve(sb.toString()));
+        sb2.append(Solve.Solve(sb.toString()));
         jTextArea2.setText("");
         jTextArea2.setText(sb2.toString());
         sb= new StringBuilder();
