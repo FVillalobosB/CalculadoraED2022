@@ -54,11 +54,13 @@ public class Interface extends javax.swing.JFrame {
 
         jTextArea1.setColumns(20);
         jTextArea1.setRows(5);
+        jTextArea1.setEditable(false);
         jTextArea1.setText("operacion a resolver");
         jScrollPane1.setViewportView(jTextArea1);
 
         jTextArea2.setColumns(20);
         jTextArea2.setRows(5);
+        jTextArea2.setEditable(false);
         jTextArea2.setText("resultado");
         jScrollPane2.setViewportView(jTextArea2);
 
